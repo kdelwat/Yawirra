@@ -5,10 +5,14 @@
 
 a {
     text-decoration: none;
+    color: inherit;
 }
 
-// layout
-$body-width: 75vw;
+ul, ol, li {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
 
 $mobile: 480px;
 $tablet: 768px;
@@ -19,6 +23,7 @@ $heading-family: 'Lobster', sans-serif;
 // colours!
 $yellow: #d6ff00;
 $blue: #2c7fd1;
+$green: #6BBA00;
 $dark-blue: #1a4c7d;
 
 body {
@@ -60,11 +65,22 @@ article {
 #home-link {
     display: block;
 
-    font-size: 3em;
+    font-size: 6em;
     font-family: $heading-family;
 
     color: white;
     text-shadow: 0px 0px 1px white;
+}
+
+#author-link {
+    font-size: 1.25em;
+    margin-top: -10px;
+
+    color: white;
+
+    a {
+        font-style: italic;
+    }
 }
 
 .icon {
@@ -79,6 +95,43 @@ section {
     background-color: white;
     border-radius: 10px;
     box-shadow: 0px 3px 2px #676767;
+}
+
+ul.menu {
+    color: black;
+    font-weight: normal;
+    list-style: none;
+    margin: 10px 0px 10px 0px;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color: white;
+
+    li {
+        margin-top: 5px;
+    }
+
+    li ul {
+        margin-top: 0px;
+        margin-bottom: 0px;
+        margin-left: 5px;
+        border-left: 1px solid $green;
+
+        padding-right: 0px;
+    }
+
+    a {
+        display: block;
+        padding-left: 2px;
+
+        &:hover {
+            color: $green;
+            background-color: #ececec;
+        }
+    }
+
+    .selected {
+        font-weight: bold;
+    }
 }
 
 p {
