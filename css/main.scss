@@ -116,15 +116,6 @@ article {
     }
 }
 
-.icon {
-    width: 30px;
-    height: 30px;
-    fill: white;
-    margin-left: 10px;
-    margin-right: 10px;
-}
-
-
 ul.menu {
     font-weight: normal;
     list-style: none;
@@ -204,7 +195,7 @@ blockquote {
 
 }
 
-img {
+.markdown img {
     width: 75%;
     display: block;
     margin: 0px auto;
@@ -252,3 +243,21 @@ dd {
     }
 }
 
+//footer settings
+
+footer {
+    border-top: 1px solid $muted-text-colour;
+    color: $muted-text-colour;
+
+    font-size: 0.75em;
+    line-height: 0.25em;
+    text-align: right;
+}
+
+.icon {
+    width: 1.5em;
+    height: 1.5em;
+    margin-bottom: -0.35em;
+  
+    fill: $green;
+}
