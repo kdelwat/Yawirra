@@ -140,37 +140,3 @@ p {
     margin-top: 0px;
     margin-bottom: 0px;
 }
-
-.projects {
-    display: flex;
-    justify-content: space-between;
-    margin-top: 20px;
-    margin-bottom: 20px;
-}
-
-.project-image {
-    border-radius: 50%;
-    border: 5px solid white;
-    width: 12vw;
-
-    box-shadow: 0px 3px 2px #676767;
-
-    transition: all 500ms ease-in;
-}
-
-.active {
-}
-
-.inactive {
-    filter: grayscale(100%) brightness(80%);
-    -webkit-filter: grayscale(100%) brightness(80%);
-
-    &:hover {
-        filter: grayscale(100%) brightness(100%);
-        -webkit-filter: grayscale(100%) brightness(100%);
-    }
-}
-
-#yawirra {
-    display: none;
-}
