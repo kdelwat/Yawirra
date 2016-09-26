@@ -1,39 +1,119 @@
 ---
-# Only the main Sass file needs front matter (the dashes are enough)
 ---
-@charset "utf-8";
 
-// Our variables
-$base-font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-$base-font-size:   16px;
-$base-font-weight: 400;
-$small-font-size:  $base-font-size * 0.875;
-$base-line-height: 1.5;
+//reset
 
-$spacing-unit:     30px;
+a {
+    text-decoration: none;
+}
 
-$text-color:       #111;
-$background-color: #fdfdfd;
-$brand-color:      #2a7ae2;
+// layout
+$body-width: 50vw;
 
-$grey-color:       #828282;
-$grey-color-light: lighten($grey-color, 40%);
-$grey-color-dark:  darken($grey-color, 25%);
+$mobile: 480px;
+$tablet: 768px;
 
-// Width of the content area
-$content-width:    800px;
+//typography
+$heading-family: 'Lobster', sans-serif;
 
-$on-palm:          600px;
-$on-laptop:        800px;
+// colours!
+$yellow: #d6ff00;
+$blue: #2c7fd1;
+$dark-blue: #1a4c7d;
 
-// Minima also includes a mixin for defining media queries.
-// Use media queries like this:
-// @include media-query($on-palm) {
-//     .wrapper {
-//         padding-right: $spacing-unit / 2;
-//         padding-left: $spacing-unit / 2;
-//     }
-// }
+body {
+    margin: 0px;
+    height: 100%;
+    overflow: auto;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-image: linear-gradient(15deg, $yellow, $blue);
+}
 
-// Import partials from the `minima` theme.
-@import "minima";
+#header {
+    margin-top: 30vh;
+    transition: margin-top 1s linear;
+}
+
+.nav {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+}
+
+h1 {
+    text-align: center;
+    font-size: 7.5em;
+    font-family: $heading-family;
+
+    color: white;
+    text-shadow: 0px 0px 1px white;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.icon {
+    width: 30px;
+    height: 30px;
+    fill: white;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+#content {
+    opacity: 0;
+    transition: opacity 1s ease-in;
+
+    margin: 50px auto 0px auto;
+
+    max-width: 50vw;
+    @media (max-width: $tablet) {
+        max-width: 80vw;
+    }
+}
+section {
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0px 3px 2px #676767;
+}
+
+p {
+    color: #404040;
+    padding: 5px 20px 20px 20px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.projects {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.project-image {
+    border-radius: 50%;
+    border: 5px solid white;
+    width: 12vw;
+
+    box-shadow: 0px 3px 2px #676767;
+
+    transition: all 500ms ease-in;
+}
+
+.active {
+}
+
+.inactive {
+    filter: grayscale(100%) brightness(80%);
+    -webkit-filter: grayscale(100%) brightness(80%);
+
+    &:hover {
+        filter: grayscale(100%) brightness(100%);
+        -webkit-filter: grayscale(100%) brightness(100%);
+    }
+}
+
+#yawirra {
+    display: none;
+}
