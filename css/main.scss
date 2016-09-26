@@ -16,6 +16,7 @@ ul, ol, li {
 
 $mobile: 480px;
 $tablet: 768px;
+$smaller-desktop: 1110px;
 
 //typography
 $heading-family: 'Lobster', sans-serif;
@@ -42,11 +43,17 @@ body {
 
     font-feature-settings: "kern" 1;
     font-kerning: normal;
+
+    @media (max-width: $tablet) {
+        flex-direction: column;
+        justify-content: flex-start;
+        align-items: center;
+    }
 }
 
 aside {
     width: 25vw;
-    margin: 10px;
+    margin: 20px;
 
     display: flex;
     flex-direction: column;
@@ -56,16 +63,32 @@ aside {
     section {
         width: 100%;
     }
+
+    @media (max-width: $tablet) {
+        width: 90vw;
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+
 }
 
 article {
-    margin: 10px;
+    margin: 20px;
     display: flex;
     justify-content: center;
+
+    @media (max-width: $tablet) {
+        width: 90vw;
+        margin-left: 0px;
+        margin-right: 0px;
+    }
 }
 
 #content {
-    max-width: 60vw;
+    @media (max-width: $tablet) {
+        width: 90vw;
+    }
+
 }
 
 #home-link {
@@ -76,6 +99,10 @@ article {
 
     color: white;
     text-shadow: 0px 0px 1px white;
+
+    @media (max-width: $smaller-desktop) and (min-width: $tablet){
+        font-size: 4em;
+    }
 }
 
 #author-link {
@@ -152,6 +179,7 @@ h1.title {
     text-align: center;
     margin-top: 10px;
     margin-bottom: 35px;
+
 }
 
 h1 {
