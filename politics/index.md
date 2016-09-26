@@ -58,7 +58,7 @@ preference in the first round and their compromise preference in the second.
 However, it has the disadvantage of not allowing preferential voting,
 potentially impacting moderate parties.
 
-![Legislative Assembly seat history](/assets/AssemblySeats.png)
+![Legislative Assembly seat history](/assets/images/AssemblySeats.png)
 
 The **National Council** is made up of 100 seats. The seats are divided between
 three sources: the states, who each recieve 10 seats, the three territories, who
@@ -106,7 +106,7 @@ Prime Minister.
 | Total                      | 332    | 100.00%      | 100.00%        |
 
 <div id="center" style="width:400px;margin-left:auto;margin-right:auto;text-align:center">
-<img src="/assets/2015Assembly.png" alt="2015 Legislative Assembly composition">
+<img src="/assets/images/2015Assembly.png" alt="2015 Legislative Assembly composition">
 <em><a href="/assets/Data/LA2016.csv">Download full vote count</a></em>
 </div> 
 

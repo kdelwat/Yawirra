@@ -1,12 +1,20 @@
-
-
 <html>
     {% include head.html %}
-
     <body>
-        {{ page.title }}
-        {{ content }}}
-        {% include automenu url='/' sort="url" reverse=false all=false %}
+        <aside>
+            <a id="home-link">Yawirra</a>
+            <section>
+                {% include automenu url='/' sort="url" reverse=false all=false %}
+            </section>
+        </aside>
+
+        <article>
+            <section id="content">
+                {{ page.title }}
+                {{ content }}
+            </section>
+        </article>
     </body>
 
 </html>
+
