@@ -30,7 +30,6 @@ follows, in order of importance:
 + **Counsel of the Exterior**, responsible for foreign affairs.
 + **Counsel of the Economy**, responsible for economic management and taxation.
 
-
 The executive branch takes most responsibility for setting the legislative
 agenda, due to their superior numbers in the Parliament. The branch does not
 need legislative approval for acts of foreign policy with the exception of
@@ -93,7 +92,7 @@ Prime Minister.
 ### 2015 Legislative Assembly
 
 | Party                      | Seats  | Primary Vote | Secondary Vote |
-|----------------------------|-------:|-------------:|---------------:|
+|:---------------------------|-------:|-------------:|---------------:|
 | Socialist-Democratic Party | 95     | 11.97%       | 14.93%         |
 | Worker's Alliance Party    | 34     | 18.00%       | 26.79%         |
 | Conservative Party         | 65     | 16.76%       | 13.32%         |
@@ -105,8 +104,9 @@ Prime Minister.
 |===
 | Total                      | 332    | 100.00%      | 100.00%        |
 
-<div id="center" style="width:400px;margin-left:auto;margin-right:auto;text-align:center">
-<img src="/assets/images/2015Assembly.png" alt="2015 Legislative Assembly composition">
-<em><a href="/assets/Data/LA2016.csv">Download full vote count</a></em>
-</div> 
+<div class="center" markdown="1">[Download full vote count](/assets/Data/LA2016.csv)
+</div>
+
+![2015 Legislative Assembly composition](/assets/images/2015Assembly.png)
+
 

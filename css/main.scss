@@ -23,8 +23,10 @@ $heading-family: 'Lobster', sans-serif;
 // colours!
 $yellow: #d6ff00;
 $blue: #2c7fd1;
-$green: #6BBA00;
+$green: #6bba00;
 $dark-blue: #1a4c7d;
+$text-colour: #404040;
+$muted-text-colour: #828282;
 
 body {
     margin: 0px;
@@ -33,9 +35,13 @@ body {
     justify-content: center;
     align-items: flex-start;
 
+    color: $text-colour;
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-image: linear-gradient(15deg, $yellow, $blue);
+
+    font-feature-settings: "kern" 1;
+    font-kerning: normal;
 }
 
 aside {
@@ -79,7 +85,7 @@ article {
     color: white;
 
     a {
-        font-style: italic;
+        border-bottom: 1px solid white;
     }
 }
 
@@ -91,14 +97,8 @@ article {
     margin-right: 10px;
 }
 
-section {
-    background-color: white;
-    border-radius: 10px;
-    box-shadow: 0px 3px 2px #676767;
-}
 
 ul.menu {
-    color: black;
     font-weight: normal;
     list-style: none;
     margin: 10px 0px 10px 0px;
@@ -134,9 +134,92 @@ ul.menu {
     }
 }
 
-p {
-    color: #404040;
-    padding: 5px 20px 20px 20px;
-    margin-top: 0px;
-    margin-bottom: 0px;
+section {
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0px 3px 2px #676767;
 }
+
+
+//Markdown-generated content formatting
+.markdown {
+    padding: 20px;
+    line-height: 1.7em;
+}
+
+h1.title {
+    font-size: 3.247em;
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 35px;
+}
+
+h1 {
+    font-size: 1.802em;
+    margin-bottom: 10px;
+}
+
+h2 {
+    font-size: 1.424em;
+    margin-bottom: 10px;
+}
+
+ul, ol, blockquote, dl {
+    margin: 15px 0px;
+    padding-left: 40px;
+}
+
+blockquote {
+    font-style: italic;
+    border-left: 2px solid $green;
+    color: $muted-text-colour;
+
+}
+
+img {
+    width: 75%;
+    display: block;
+    margin: 0px auto;
+}
+
+table {
+    margin: 0px auto;
+
+    border-collapse: collapse;
+
+    thead th {
+        padding-bottom: 5px;
+    }
+
+    tfoot td {
+        color: $muted-text-colour;
+    }
+
+}
+
+th, td {
+    padding: 0px 10px;
+}
+
+.markdown a {
+    color: $green;
+}
+
+.center {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+dt {
+    font-weight: bold;
+}
+
+dd {
+    margin-left: 0px;
+
+    &:not(last-child) {
+        padding-bottom: 5px;
+    }
+}
+
