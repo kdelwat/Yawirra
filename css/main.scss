@@ -203,6 +203,9 @@ blockquote {
 table {
     margin: 0px auto;
 
+    display: block;
+    overflow-x: auto;
+
     border-collapse: collapse;
 
     thead th {
