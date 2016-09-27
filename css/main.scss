@@ -68,6 +68,9 @@ aside {
         width: 90vw;
         margin-left: 0px;
         margin-right: 0px;
+
+        //silly Chrome bug
+        flex: 0 0 auto;
     }
 
 }
@@ -81,14 +84,10 @@ article {
         width: 90vw;
         margin-left: 0px;
         margin-right: 0px;
-    }
-}
 
-#content {
-    @media (max-width: $tablet) {
-        width: 90vw;
+        flex-direction: column;
+        justify-content: flex-start;
     }
-
 }
 
 #home-link {
@@ -250,14 +249,16 @@ footer {
     color: $muted-text-colour;
 
     font-size: 0.75em;
-    line-height: 0.25em;
     text-align: right;
+
+    p {
+        margin: 0px;
+    }
 }
 
 .icon {
     width: 1.5em;
     height: 1.5em;
     margin-bottom: -0.35em;
-  
     fill: $green;
 }
