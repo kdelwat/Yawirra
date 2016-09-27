@@ -107,6 +107,6 @@ Prime Minister.
 <div class="center" markdown="1">[Download full vote count](/assets/Data/LA2016.csv)
 </div>
 
-![2015 Legislative Assembly composition](/yawirra/assets/images/2015Assembly.png)
+![2015 Legislative Assembly composition](/yawirra/assets/images/2015Assembly.svg)
 
 
