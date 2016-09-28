@@ -1,6 +1,7 @@
 ---
 title: Home
 layout: page
+permalink: /
 ---
 
 > It was nearing sunset when I first sighted land around the point, the low sun
