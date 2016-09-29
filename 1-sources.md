@@ -10,3 +10,10 @@ Commons Attribution-ShareAlike 4.0 International License.
 
 For the most part, real-world information is from Wikipedia. All other sources
 are noted below.
+
+# Presettlement
+
+## Food and Drink
+
+*Bush Food: Aboriginal Food and Herbal Medicine* by Jennifer Isaacs, ISBN:
+978-0947116903.
