@@ -40,3 +40,34 @@ With the daylight now interrupted by darkness, the fish emerged from the river
 and became land animals, including the first humans. Now, the Ngujari live
 close to the ocean and rivers, because they know that if Ngarlta is destroyed,
 they will have to return to the water.
+
+# Life and Death
+
+All life begins with *Ngarlta*, which acts as a conduit between those who live
+in Yawirra and those in the afterlife. When a Ngujari woman falls pregnant, she
+must go to the sacred tree with the father and sleep there for three nights,
+performing a number of ceremonies in order to ask Yuparrna to bless her with a
+child.
+
+Life is differentiated by the presence of blood. If Yuparrna decides to gift
+the woman a child, he fills her pregnant stomach with new blood in order to
+animate the growing child. However, if he does not believe that the time is
+right for another Ngujari child, he instead fills her with ancestral blood,
+from the bodies of those who are already in the afterlife. While this leads to
+miscarriage, because a person cannot be reborn from Pawpa, it is seen as a
+great honour. To carry the ancestral blood represents Yuparrna's belief in the
+woman's responsibility and suitability, even though a child is not desired.
+
+Aside from the need for new blood, which is gifted by Yuparrna, to be a human
+the child also has need of a *Muu*, or spirit, which is given to them by the
+Elders of the tribe. After a child is born, the Elders wait for a period of one
+month before performing the ceremony in which a Muu is bestowed upon the child,
+and a name is given to it.
+
+The presence of Pawpa means that death is a natural part of life. While the
+deceased's family and friends are encouraged to grieve, those in the afterlife
+welcome all dead, and consequently the event is also a hopeful one. The body of
+the deceased is taken to its birthplace, Ngarlta, where it is cremated in the
+presence of the whole tribe. Through burning, its Muu is freed to rise up along
+Ngarlta into Pawpa. The ashes of the body, which contain the once-new blood
+gifted by Yuparrna, are given back to the ocean where they may flow freely.
