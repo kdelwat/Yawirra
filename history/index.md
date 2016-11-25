@@ -8,9 +8,9 @@ The history of Yawirra can be broadly split into three stages: pre-settlement,
 colonial, and independent. The first is dealt with
 in [pre-settlement](/yawirra/presettlement/), while the remainder is detailed here.
 
-# The Australian Colonial War
+# The Yawirran Colonial War
 
-In August 1832, all French colonies institute mandatory gold licenses for
+In August 1832, all French colonies instituted mandatory gold licenses for
 miners. France, concerned about British influence in their colonies, created a
 seperate license class for British miners which was more expensive, and carried
 restricted rights and higher taxation. A series of protests by British miners
