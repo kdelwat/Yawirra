@@ -1,5 +1,6 @@
 <html>
-    {% include head.html %}
+  {% include head.html map=page.map %}
+
     <body>
         <aside>
             <a id="home-link">Yawirra</a>
@@ -18,6 +19,15 @@
                 </div>
             </section>
         </article>
+
+        {% if page.map %}
+        <script type="text/javascript">
+         var map = L.map('map').setView([{{ page.location}}], 13);
+
+         L.tileLayer('https://api.mapbox.com/styles/v1/kdelwat/ciyc6jofp00172sp5roawjb2k/tiles/256/{z}/{x}/{y}?access_token=pk.eyJ1Ijoia2RlbHdhdCIsImEiOiJjaXljNDBuN2EwMGR6MnBwOWJqNnI4dWE0In0.tawTTiv3rP4QhysIqdwDmw',
+           {maxZoom: 17, minZoom: 13}).addTo(map);
+        </script>
+        {% endif %}
     </body>
 
 </html>

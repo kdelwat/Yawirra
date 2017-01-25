@@ -78,6 +78,7 @@ aside {
 article {
     margin: 20px;
     display: flex;
+    flex-grow: 1;
     justify-content: center;
 
     @media (max-width: $tablet) {
@@ -88,6 +89,10 @@ article {
         flex-direction: column;
         justify-content: flex-start;
     }
+}
+
+#content {
+  width: 100%;
 }
 
 #home-link {
@@ -198,6 +203,11 @@ blockquote {
     width: 75%;
     display: block;
     margin: 0px auto;
+}
+
+#map {
+  width: 100%;
+  height: 500px;
 }
 
 table {
