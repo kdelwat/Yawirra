@@ -13,6 +13,10 @@ are noted below.
 
 # Presettlement
 
+## Magic
+
+http://www.australianstogether.org.au/stories/detail/indigenous-spirituality
+
 ## Food and Drink
 
 *Bush Food: Aboriginal Food and Herbal Medicine* by Jennifer Isaacs, ISBN:
