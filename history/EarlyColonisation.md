@@ -58,4 +58,4 @@ Meanwhile, St. Aloüarn had continued according to plan and landed at Aguillon
 Bay on the 17th of March, 1772. When Kerguelen failed to arrive, he decided
 to press on with his mission and continued around the southern coast.
 
-![Early French missions to Yawirra](/yawirra/assets/images/Exploration.jpg)
+![Early French missions to Yawirra](/assets/images/Exploration.jpg)

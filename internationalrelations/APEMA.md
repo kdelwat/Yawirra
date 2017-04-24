@@ -19,13 +19,13 @@ Articles 2-4:
 > co-operation, equal representation, and mutual defense.
 >
 > Article 2: The Alliance will establish a standing trade agreement between all
-> members, with no special restrictions on individual members. Members resolve 
+> members, with no special restrictions on individual members. Members resolve
 > to maintain no seperate trade agreements with other states who are currently
 > members of the Alliance.
 >
 > Article 3: The Alliance will ensure decisions are made democratically, with
 > each member allowed one vote and the choice of acception, abstention, or
-> rejection. A majority is required to pass a standard resolution. Declaration 
+> rejection. A majority is required to pass a standard resolution. Declaration
 > of war requires a supermajority of at least two thirds of members. Any
 > Resolution recieving majority abstentions is automatically rejected.
 >
@@ -36,7 +36,7 @@ Articles 2-4:
 
 # Members
 
-![APEMA member nations](/yawirra/assets/images/APEMA.jpg)
+![APEMA member nations](/assets/images/APEMA.jpg)
 
 ## 1962: Founding States
 
@@ -86,7 +86,7 @@ to become an independent republic and joined APEMA upon its foundation.
 
 ## 1985: Kampuchea
 
-*Main article*: [Third Indochina War](/yawirra/international/thirdindowar/)
+*Main article*: [Third Indochina War](/international/thirdindowar/)
 
 The protracted Third Indochina War (began 1979) between Vietnam and APEMA
 coalition forces came to an end in 1984 with the Vietnamese army pushed out of

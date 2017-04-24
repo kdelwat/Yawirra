@@ -6,11 +6,11 @@ permalink: /history/
 
 The history of Yawirra can be broadly split into three stages: pre-settlement,
 colonial, and independent. The first is dealt with
-in [pre-settlement](/yawirra/presettlement/), while the remainder is detailed here.
+in [pre-settlement](/presettlement/), while the remainder is detailed here.
 
 # Early Colonisation
 
-*Main Article:* [Early Colonisation](/yawirra/history/earlycolonisation/).
+*Main Article:* [Early Colonisation](/history/earlycolonisation/).
 
 Following the loss of New France to Britain in 1763, as a result of the Seven
 Years' War, France was searching for new settlement opportunities in an attempt
@@ -50,7 +50,7 @@ from 1832 to 1834 against the harsh license requirements was accompanied by
 acts of sabotage against French government property, sparking accusations by
 France that the British government was deliberately inflaming the tensions.
 
-*Main Article:* [Massacre of Wiranumba](/yawirra/history/massacreofwiranumba/).
+*Main Article:* [Massacre of Wiranumba](/history/massacreofwiranumba/).
 
 The protests came to a head on the 4th of February, 1934, when a group of 40
 British miners seized the goldfields administration offices in Wiranumba.
@@ -59,4 +59,4 @@ imprisoning the 16 others, suffering 10 deaths in the process.
 
 # Independence
 
-![Front page of Le Quotidien](/yawirra/assets/images/Independence!.jpg)
+![Front page of Le Quotidien](/assets/images/Independence!.jpg)

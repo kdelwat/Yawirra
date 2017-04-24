@@ -19,7 +19,7 @@ a rich indigenous culture. At the time of the first French colony at
 Concarneau, there were an estimated 750,000 indigenous inhabitants in the
 country, divided into a number of different language groups.
 
-![Indigenous language groups](/yawirra/assets/images/LanguageGroups.jpg)
+![Indigenous language groups](/assets/images/LanguageGroups.jpg)
 
 Having recognised the importance of co-operation with indigenous peoples during
 their experiences in New France, the colonisers immediately set out to build a

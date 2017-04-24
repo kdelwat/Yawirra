@@ -34,7 +34,7 @@ Claiming the land for France, he named it Argentière in reference to a village
 of the same name in the French Alps. St. Aloürn later stated that the towering
 Mont Roignais was the inspiration for the name.
 
-During the [early colonisation](/yawirra/history/earlycolonisation/) of
+During the [early colonisation](/history/earlycolonisation/) of
 Yawirra, French explorers and settlers used the island as a staging point for
 expeditions to the mainland. Its position made it ideal for ships to resupply
 before the return journey to France.
@@ -43,7 +43,7 @@ The island was incorporated into the colony of Angourie during its founding in
 1807 and remained a part of the state until 1952, when it was awarded
 territorial status alongside Papua.
 
-*Main Article: [Independence Movement](/yawirra/geography/argentiere/independence/)*
+*Main Article: [Independence Movement](/geography/argentiere/independence/)*
 
 The forty years that followed saw the rise of separatism among the island's
 populations, spearheaded by the Popular League for an Autonomous Argentière
@@ -52,7 +52,7 @@ sentiment was not shared by the entirety of the population, and rival loyalist
 groups grew in power. The period between 1980 and 1995 was particularly divided
 both politically and culturally.
 
-*Main Article: [The Grand Mosque Rebellion](/yawirra/geography/argentiere/independence/)*
+*Main Article: [The Grand Mosque Rebellion](/geography/argentiere/independence/)*
 
 On the 18th of August, 1995, revolutionary independence groups launched a
 coordinated attempt to secede from Yawirra. Despite opposition from

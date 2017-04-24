@@ -49,11 +49,11 @@ Edmonteau's office and provided with food and water. On the flagpole outside,
 the Miner's Jack, a flag symbolising the protest movement, was raised,
 replacing the French flag.
 
-![The Miner's Jack](/yawirra/assets/images/MinersJack.png)
+![The Miner's Jack](/assets/images/MinersJack.png)
 
 # Seige
 
-As the day wore on, French colonial [gendarmes](/yawirra/society/gendarmerie/)
+As the day wore on, French colonial [gendarmes](/society/gendarmerie/)
 arrived at the scene and established a line of communication with the occupiers.
 The Gendarmerie refused to acknowledge the demands of the miners while there
 remained hostages, while the British were afraid to give up their only leverage.
@@ -124,4 +124,4 @@ action, which read:
 
 The aftermath of the event saw the boiling over of tensions between the two
 colonial powers, and ultimately led to the defeat and exit from Yawirra of
-the British in the [Yawirran Colonial War](/yawirra/history/colonialwar/).
+the British in the [Yawirran Colonial War](/history/colonialwar/).

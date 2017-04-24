@@ -8,7 +8,7 @@ permalink: /international/
 
 *Main article:* [APEMA](/international/APEMA.html)
 
-![Member countries of APEMA](/yawirra/assets/images/APEMA.jpg)
+![Member countries of APEMA](/assets/images/APEMA.jpg)
 
 In 1962, Yawirra co-founded the Asia-Pacific Economic and Military Alliance, a
 NATO-style alliance for ensuring the prosperity and security of all member

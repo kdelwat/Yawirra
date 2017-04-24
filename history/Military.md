@@ -10,13 +10,13 @@ While the Yawirran Military Organisation had seen considerable success
 throughout its existence, the late 1980s had seen a growing discontent amongst
 military commanders and politicans about its rigid traditional structure. This
 had caused considerable difficulties during
-the [Third Indochina War](/yawirra/international/thirdindowar/), in which
+the [Third Indochina War](/international/thirdindowar/), in which
 disastrous defeats were attributed to the outdated system.
 
 For many commanders, including General Olivier Platte, the Chief Commander of
 the Army, the quintessential example of these failures was
 the
-[Battle of Krong Kampong Cham](/yawirra/international/thirdindowar/battleofkkc/).
+[Battle of Krong Kampong Cham](/international/thirdindowar/battleofkkc/).
 Seeking to seize control of an important crossing of the Mekong River for APEMA
 forces, YMO forces pushed into the city of Krong Kampong Cham. Upon reaching
 the river, they were counterattacked by insurgents from previously-cleared
@@ -34,7 +34,7 @@ abandonment of the traditional 'branch' structure in favour of mission-based
 organisation. The five separate branches were combined into one, and the entire
 heirarchy was replaced.
 
-![The Yawirran Integrated Defence Force Organisational Chart](/yawirra/assets/images/YIDFOrgChart.png)
+![The Yawirran Integrated Defence Force Organisational Chart](/assets/images/YIDFOrgChart.png)
 
 The key concept of the new system was 'streamed squads'. A squad was composed
 of 10 personnel, who remained together for the majority of their military

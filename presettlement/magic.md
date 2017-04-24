@@ -57,7 +57,7 @@ their resting place for eternity.
 
 The magic of the land is now said to be these spirits, who allow themselves to
 be used by the Ngujari in the fight against Winmii's ancestors,
-the [Winmiiju](/yawirra/presettlement/winmiiju).
+the [Winmiiju](/presettlement/winmiiju).
 
 # Nnurrus
 
@@ -109,7 +109,7 @@ originates in the physical world, and includes the body and high-level thought
 processes. However, the incorporeal form, or *Muu*, which controls emotion and
 spirituality resides in the Dreamtime, and is temporarily meshed with the
 physical form soon after birth (see [Life and
-Death](/yawirra/presettlement/cosmology));
+Death](/presettlement/cosmology));
 
 ## Channels
 

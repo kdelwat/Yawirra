@@ -1,6 +1,6 @@
 # Yawirra
 
-The source code for the [Yawirra worldbuilding project](https://www.cadelwatson.com/yawirra).
+The source code for the [Yawirra worldbuilding project](https://yawirra.cadelwatson.com).
 
 Built using the Jekyll static site generator and a custom theme.
 

@@ -21,7 +21,7 @@ according to a formula which favoured mainland development.
 # Territorial Status
 
 By the 1950s, a variety of parties in
-the [Argentière City Parliament](/yawirra/geography/argentiere/politics) had
+the [Argentière City Parliament](/geography/argentiere/politics) had
 begun openly calling for secession from Angourie. In March 1952, mass street
 demonstrations saw upwards of 200,000 citizens protesting the lack of
 government funding and self-management of internal affairs. For three days, the
